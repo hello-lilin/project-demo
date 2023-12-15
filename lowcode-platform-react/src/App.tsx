@@ -11,8 +11,9 @@ function App() {
             <div>
                 <p>think of this</p>
                 <ul>
-                    <li>abc</li>
-                    <li>def</li>
+                    <li>ght</li>
+                    <li>uhf</li>
+                    <li>ios</li>
                 </ul>
                 <a href="https://vitejs.dev" target="_blank">
                     <img src={viteLogo} className="logo" alt="Vite logo"/>
